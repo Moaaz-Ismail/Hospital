@@ -2,11 +2,9 @@ package com.example.hospitalmanagement.login
 
 import android.graphics.Color
 import android.graphics.drawable.Drawable
-import android.os.Build
 import android.os.Bundle
 import android.view.View
 import android.widget.FrameLayout
-import androidx.annotation.RequiresApi
 import androidx.appcompat.app.AppCompatActivity
 import com.example.hospitalmanagement.R
 import eightbitlab.com.blurview.BlurView
